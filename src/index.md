@@ -9,8 +9,8 @@
 
 ## Organisation
 
-* Program co-chairs: [Assoc. Prof. Jennifer Horkoff](https://www.chalmers.se/en/persons/jenho/) and [Prof. Eric Knauss](https://www.chalmers.se/en/persons/knauss/)
-* Steering-committee chair: [Prof. Björn Regnell](https://cs.lth.se/bjorn-regnell/)
+* Program co-chairs: [Docent Jennifer Horkoff](https://www.chalmers.se/en/persons/jenho/) and [Professor Eric Knauss](https://www.chalmers.se/en/persons/knauss/)
+* Steering-committee chair: [Professor Björn Regnell](https://cs.lth.se/bjorn-regnell/)
 
 ## SiREN Signals
 
