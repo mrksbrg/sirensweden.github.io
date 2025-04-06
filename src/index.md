@@ -42,12 +42,13 @@ We have since 2003 held annual network meetings aka Signals, were we exchange id
 * 2003, Lund, October 22-23 
 * 2003, Lund, June 12-13 
 
-## Core RE-publication forums
+## Core RE publication forums
 
 If you are doing software engineering research with a requirements engineering angle you can publish here:
-* Requirements Engineering, journal: [REJ, Springer-Nature](https://link.springer.com/journal/766)
-* Requirements Engineering, international conference: [RE, IEEE/ACM](https://conf.researchr.org/series/RE)
-* Requirements Engineering Foundation for Software Engineering, working conference: [REFSQ](https://refsq.org)
+
+* **REJ**: Requirements Engineering, *journal*: [REJ, Springer-Nature](https://link.springer.com/journal/766)
+* **RE**: Requirements Engineering, *international conference*: [RE, IEEE/ACM](https://conf.researchr.org/series/RE)
+* **REFSQ**: Requirements Engineering Foundation for Software Engineering, *international working conference*: [REFSQ](https://refsq.org)
 
 ## Contribute
 
