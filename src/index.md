@@ -4,7 +4,7 @@
 ![](siren-logo.png "SiREN logo")
 
 * **SiREN** is a non-profit network of **academic scholars in Sweden** with a deep interest in **Requirements Engineering (RE) research and practice**.
-* Our annual meetings focus on Swedish **PhD students** with a thesis project in any way connected to requirements of software-based systems.
+* Our annual meetings focus on work by **PhD students** in Sweden with a thesis project in any way connected to requirements of software-based systems.
 * We also invite research-oriented software engineering **practitioners** from Swedish industry with a deep interest in RE.
 
 ## Organisation
