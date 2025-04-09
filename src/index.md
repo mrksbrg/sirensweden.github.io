@@ -47,7 +47,7 @@ Contact bjorn.regnell@cs.lth.se if you are interested in becoming a Node Represe
 3. The SC decides about when and where the Signals take place.
 4. The SC decides who is SC Chair and Signals Program Chairs.
 5. The SC Chair and Signal Program Chairs decides about who is invited and assigned as NR and IA.
-6. SC, F, NR, and IA nominates participants to Signals and SC Program Chairs decides how many and whom to invite.
+6. SC, F, NR, and IA nominates participants to Signals and Signal Program Chairs decides how many and whom to invite.
 
 ## Signals
 
