@@ -23,6 +23,7 @@ Contact bjorn.regnell@cs.lth.se if you are interested in becoming a Node Represe
 * Signals Program Co-chairs: [Docent Jennifer Horkoff](https://www.chalmers.se/en/persons/jenho/) and [Professor Eric Knauss](https://www.chalmers.se/en/persons/knauss/)
 * Steering Committee Chair, Co-founder: [Professor Björn Regnell](https://cs.lth.se/bjorn-regnell/)
 * Co-founder: [Professor Kristian Sandahl](https://liu.se/en/employee/krisa34)
+* Co-founder: [Professor Jürgen Börstler](https://www.bth.se/eng/staff/jurgen-borstler-jub/)
 * Co-founder: [Professor Emerita Anne Persson](https://www.linkedin.com/in/anne-persson-9959073/)
 
 ### Node Representatives
