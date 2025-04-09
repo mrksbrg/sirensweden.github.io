@@ -51,7 +51,7 @@ Contact bjorn.regnell@cs.lth.se if you are interested in becoming a Node Represe
 
 ## Signals
 
-We have since 2003 held annual network meetings aka Signals, were we exchange ideas and discuss any interesting topics related to requirements of software-based systems, including research, teaching and practice of RE. Signals are typically lunch to lunch at a university somewhere in Sweden. Everyone travels on their own budget and we aim at a minimal admin overhead. 
+We have since 2003 held annual network meetings aka Signals, were we exchange ideas and discuss any interesting topics related to requirements of software-based systems, including research, teaching and practice of RE. Signals are typically lunch to lunch at a university somewhere in Sweden. Everyone travel on their own budget and we aim at a minimal admin overhead. 
 
 ### Coming Signal
 
