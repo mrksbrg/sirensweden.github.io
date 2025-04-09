@@ -5,6 +5,8 @@
 
 *Network meeting comming up:* [**SiREN Signal 2025**](2025/index.html)
 
+## About
+
 * **SiREN** is a non-profit network of **academic scholars in Sweden** with a deep interest in **Requirements Engineering (RE) research and practice**.
 
 * Our annual meetings focus on work by **PhD students** in Sweden with a thesis project in any way connected to requirements of software-based systems.
