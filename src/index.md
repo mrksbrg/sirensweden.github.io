@@ -15,7 +15,7 @@
 
 ## Organisation
 
-Contact bjorn.regnell@cs.lth.se if you are interested in becoming a Node Representative or Industry Ambassador for SiREN. If you are a PhD student in SOftware Engineering with an interest in Requirements Engineering and wants to participate at SiREN Signal meetings then contact a Nore Representative near you.
+Contact bjorn.regnell@cs.lth.se if you are interested in becoming a Node Representative or Industry Ambassador for SiREN. If you are a PhD student in Software Engineering with an interest in Requirements Engineering and wants to participate at SiREN Signal meetings then contact a Nore Representative near you.
 
 
 ### Chairs and Founders
