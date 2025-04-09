@@ -35,7 +35,7 @@ Contact bjorn.regnell@cs.lth.se if you are interested in becoming a Node Represe
 * Mälardalen: TBD
 * Stockholm: TBD
 
-### Industrial Ambassadors
+### Industry Ambassadors
 
 * [Anders Ekman](https://www.linkedin.com/in/anders-ekman-271563/), Stockholm, CEO at Celeris Consulting 
 * [Peter Sjöberg](https://www.linkedin.com/in/petersjoebergvaesteras/), Västerås, Senior Systems Engineer at Hitachi Energy
