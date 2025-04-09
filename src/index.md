@@ -87,7 +87,7 @@ If you are doing software engineering research with a requirements engineering a
 
 * [**REJ**](https://link.springer.com/journal/766): Requirements Engineering, *journal*: (Springer-Nature), a high-impact journal with good reputation.
 * [**RE**](https://conf.researchr.org/series/RE): Requirements Engineering, *international conference*: (IEEE/ACM), a top-tier conference with a low acceptance rate.
-* [**REFSQ**](https://refsq.org): Requirements Engineering Foundation for Software Engineering, *international working conference*, invites on-going work and novel research, you often hear it first at REFSQ!
+* [**REFSQ**](https://refsq.org): Requirements Engineering Foundation for Software Engineering, *international working conference* (Springer LNCS), invites on-going work and novel research, you often hear it first at REFSQ!
 
 ## Contribute
 
