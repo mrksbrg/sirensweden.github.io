@@ -15,6 +15,7 @@
 * Co-founder: [Professor Emerita Anne Persson](https://www.kks.se/article/mot-vara-bedomare-ann-persson/)
 
 Node Representatives, voting members of the Steering Committee:
+
 * Göteborg: [Professor Eric Knauss](https://www.chalmers.se/en/persons/knauss/)
 * Karlskrona: [Professor Daniel Mendez Fernandez](https://www.bth.se/staff/daniel-mendez-fernandez-dmz/)
 * Linköping: [Docent Lena Buffoni](https://liu.se/medarbetare/olero90)
@@ -24,6 +25,7 @@ Node Representatives, voting members of the Steering Committee:
 * Mälardalen: TBD
 
 Industrial Ambassadors:
+
 * [Anders Ekman](https://www.linkedin.com/in/anders-ekman-271563/), Stockholm, CEO at Celeris Consulting 
 * [Peter Sjöberg](https://www.linkedin.com/in/petersjoebergvaesteras/), Västerås, Senior Systems Engineer at Hitachi Energy
 
