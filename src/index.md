@@ -9,8 +9,25 @@
 
 ## Organisation
 
-* Program co-chairs: [Docent Jennifer Horkoff](https://www.chalmers.se/en/persons/jenho/) and [Professor Eric Knauss](https://www.chalmers.se/en/persons/knauss/)
-* Steering-committee chair: [Professor Björn Regnell](https://cs.lth.se/bjorn-regnell/)
+* Signal program co-chairs: [Docent Jennifer Horkoff](https://www.chalmers.se/en/persons/jenho/) and [Professor Eric Knauss](https://www.chalmers.se/en/persons/knauss/)
+* Steering-committee chair, co-founder:[Professor Björn Regnell](https://cs.lth.se/bjorn-regnell/)
+* Co-founder, non-voting member of Steering Committee: [Professor Kristian Sandahl](https://liu.se/en/employee/krisa34)
+* Co-founder: [Professor Emerita Anne Persson](https://www.kks.se/article/mot-vara-bedomare-ann-persson/)
+
+Node Representatives, voting members of the Steering Committee:
+* Göteborg: [Professor Eric Knauss](https://www.chalmers.se/en/persons/knauss/)
+* Karlskrona: [Professor Daniel Mendez Fernandez](https://www.bth.se/staff/daniel-mendez-fernandez-dmz/)
+* Linköping: [Docent Lena Buffoni](https://liu.se/medarbetare/olero90)
+* Lund: [Professor Björn Regnell](https://cs.lth.se/bjorn-regnell/)
+* Malmö: TBD
+* Stockholm: TBD
+* Mälardalen: TBD
+
+Industrial Ambassadors:
+* [Anders Ekman](https://www.linkedin.com/in/anders-ekman-271563/), Stockholm, CEO at Celeris Consulting 
+* [Peter Sjöberg](https://www.linkedin.com/in/petersjoebergvaesteras/), Västerås, Senior Systems Engineer at Hitachi Energy
+
+Contact bjorn.regnell@cs.lth.se if you are interested in becoming a Node Representative or Industry Ambassador for SiREN.
 
 ## SiREN Signals
 
