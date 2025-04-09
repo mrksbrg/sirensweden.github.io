@@ -71,7 +71,7 @@ dd p {
 
 #footer, #TOC {
   color: rgb(1, 39, 3);
-  background-color: #ddffdd;
+  background-color: #faf89d;
   font-weight: bold;
 }
 
@@ -89,7 +89,7 @@ dd p {
 
 #header {
   background:
-  linear-gradient(to right, black,#07a715,black); 
+  linear-gradient(to right, black,#ffee00,black); 
 }
 
 .headimg {
