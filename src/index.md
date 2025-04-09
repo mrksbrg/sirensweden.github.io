@@ -1,7 +1,7 @@
 
 ## Swedish Requirements Engineering Network
 
-![](siren-logo.png "SiREN logo")
+![](img/siren-logo.png "SiREN logo")
 
 *Network meeting comming up:* [**SiREN Signal 2025**](2025/index.html)
 
@@ -32,8 +32,8 @@ Contact bjorn.regnell@cs.lth.se if you are interested in becoming a Node Represe
 * Linköping: [Docent Lena Buffoni](https://liu.se/medarbetare/olero90)
 * Lund: [Professor Björn Regnell](https://cs.lth.se/bjorn-regnell/)
 * Malmö: TBD
-* Mälardalen: TBD
-* Stockholm: TBD
+* Mälardalen: [Senior Lecturer Luciana Provenzano](https://www.es.mdu.se/staff/2958-Luciana_Provenzano)
+* Stockholm: [Senior Lecturer Eric Svee](https://www.su.se/profiles/ersv6598-1.188778)
 
 ### Industry Ambassadors
 
@@ -59,7 +59,7 @@ We have since 2003 held annual network meetings aka Signals, were we exchange id
 
 ### Past Signals
 
-* 2024, Linköping May 13 -14
+* [2024, Linköping](2024/index.html) May 13 -14
 * 2023, Göteborg 2-3 Nov, **20 YEARS ANNIVERSARY**
 * (2020 planned for Göteborg, *cancelled by Corona*)
 * 2019, Lund, May 7-8
