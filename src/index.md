@@ -3,18 +3,27 @@
 
 ![](siren-logo.png "SiREN logo")
 
+*Network meeting comming up:* [**SiREN Signal 2025**](2025/index.html)
+
 * **SiREN** is a non-profit network of **academic scholars in Sweden** with a deep interest in **Requirements Engineering (RE) research and practice**.
+
 * Our annual meetings focus on work by **PhD students** in Sweden with a thesis project in any way connected to requirements of software-based systems.
+
 * We also invite research-oriented software engineering **practitioners** from Swedish industry with a deep interest in RE.
 
 ## Organisation
 
-* Signal program co-chairs: [Docent Jennifer Horkoff](https://www.chalmers.se/en/persons/jenho/) and [Professor Eric Knauss](https://www.chalmers.se/en/persons/knauss/)
-* Steering-committee chair, co-founder:[Professor Björn Regnell](https://cs.lth.se/bjorn-regnell/)
-* Co-founder, non-voting member of Steering Committee: [Professor Kristian Sandahl](https://liu.se/en/employee/krisa34)
+Contact bjorn.regnell@cs.lth.se if you are interested in becoming a Node Representative or Industry Ambassador for SiREN. If you are a PhD student and wants to participate at SiREN Signal meetings then contact a Nore Representative near you.
+
+
+### Chairs and Founders
+
+* Signals Program Co-chairs: [Docent Jennifer Horkoff](https://www.chalmers.se/en/persons/jenho/) and [Professor Eric Knauss](https://www.chalmers.se/en/persons/knauss/)
+* Steering Committee Chair, Co-founder: [Professor Björn Regnell](https://cs.lth.se/bjorn-regnell/)
+* Co-founder: [Professor Kristian Sandahl](https://liu.se/en/employee/krisa34)
 * Co-founder: [Professor Emerita Anne Persson](https://www.kks.se/article/mot-vara-bedomare-ann-persson/)
 
-Node Representatives, voting members of the Steering Committee:
+### Node Representatives
 
 * Göteborg: [Professor Eric Knauss](https://www.chalmers.se/en/persons/knauss/)
 * Karlskrona: [Professor Daniel Mendez Fernandez](https://www.bth.se/staff/daniel-mendez-fernandez-dmz/)
@@ -24,18 +33,27 @@ Node Representatives, voting members of the Steering Committee:
 * Stockholm: TBD
 * Mälardalen: TBD
 
-Industrial Ambassadors:
+### Industrial Ambassadors
 
 * [Anders Ekman](https://www.linkedin.com/in/anders-ekman-271563/), Stockholm, CEO at Celeris Consulting 
 * [Peter Sjöberg](https://www.linkedin.com/in/petersjoebergvaesteras/), Västerås, Senior Systems Engineer at Hitachi Energy
 
-Contact bjorn.regnell@cs.lth.se if you are interested in becoming a Node Representative or Industry Ambassador for SiREN.
+### Governance
 
-## SiREN Signals
+1. Chairs and Node Representatives (NR) are voting members of the Steering Committee (SC).
+2. Founders (F) and Industry Ambassadors (IA) are invited as non-voting participants at SC meetings. 
+3. The SC decides about when and where the Signals take place.
+4. The SC decides who is SC Chair and Signals Program Chairs.
+5. The SC Chair and Signal Program Chairs decides about who is invited and assigned as NR and IA.
+6. SC, F, NR, and IA invites participants to Signals.
+
+## Signals
 
 We have since 2003 held annual network meetings aka Signals, were we exchange ideas and discuss any interesting topics related to requirements of software-based systems, including research, teaching and practice of RE. Signals are typically lunch to lunch at a university somewhere in Sweden. Everyone travels on their own budget and we aim at a minimal admin overhead. 
 
-* *COMING UP:* [**SiREN Signal 2025**](2025/index.html). Venue to be decided.
+### Coming Signal
+
+* *Coming Up:* [**SiREN Signal 2025**](2025/index.html). Venue to be decided.
 
 ### Past Signals
 
@@ -61,9 +79,9 @@ We have since 2003 held annual network meetings aka Signals, were we exchange id
 * 2003, Lund, October 22-23 
 * 2003, Lund, June 12-13 
 
-## Core RE publication forums
+## Forums
 
-If you are doing software engineering research with a requirements engineering angle you are recommended to publish here:
+If you are doing software engineering research with a requirements engineering angle you are recommended to publish at these core forums:
 
 * [**REJ**](https://link.springer.com/journal/766): Requirements Engineering, *journal*: (Springer-Nature), a high-impact journal with good reputation.
 * [**RE**](https://conf.researchr.org/series/RE): Requirements Engineering, *international conference*: (IEEE/ACM), a top-tier conference with a low acceptance rate.
