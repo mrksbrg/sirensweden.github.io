@@ -32,8 +32,8 @@ Contact bjorn.regnell@cs.lth.se if you are interested in becoming a Node Represe
 * Linköping: [Docent Lena Buffoni](https://liu.se/medarbetare/olero90)
 * Lund: [Professor Björn Regnell](https://cs.lth.se/bjorn-regnell/)
 * Malmö: TBD
-* Stockholm: TBD
 * Mälardalen: TBD
+* Stockholm: TBD
 
 ### Industrial Ambassadors
 
