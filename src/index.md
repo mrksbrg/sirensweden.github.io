@@ -45,8 +45,8 @@ Contact bjorn.regnell@cs.lth.se if you are interested in becoming a Node Represe
 1. Chairs and Node Representatives (NR) are voting members of the Steering Committee (SC).
 2. Founders (F) and Industry Ambassadors (IA) are invited as non-voting participants at SC meetings. 
 3. The SC decides about when and where the Signals (a.k.a. annual network meetings) take place.
-4. The SC decides who is SC Chair and Signals Program Chairs (SPC).
-5. The SC Chair and SPC decides about who is invited and assigned as NR and IA.
+4. The SC decides who is SC Chair (SCC) and Signals Program Chairs (SPC).
+5. The SCC and SPC decide about who is invited and assigned as NR and IA.
 6. SC, F, NR, and IA nominates participants to Signals and SPC decides how many and whom to invite.
 
 ## Signals
