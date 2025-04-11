@@ -48,7 +48,8 @@ Contact bjorn.regnell@cs.lth.se if you are interested in becoming a Node Represe
 3. The SC decides about when and where the Signals (a.k.a. annual network meetings) take place.
 4. The SC decides who is SC Chair (SCC) and Signals Program Chairs (SPC).
 5. The SCC and SPC decide about who is invited and assigned as NR and IA.
-6. SC, F, NR, and IA nominates participants to Signals and SPC decides how many and whom to invite.
+6. The mandate period length are decided upon appointment, normally at least 2 yeats. Appointees can be reelected.
+7. SC, F, NR, and IA nominates participants to Signals and SPC decides how many and whom to invite.
 
 ## Signals
 
