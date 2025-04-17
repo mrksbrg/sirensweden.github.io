@@ -1,7 +1,7 @@
 
 ## Swedish Requirements Engineering Network
 
-![](img/siren-logo.png "SiREN logo")
+<img src="img/siren-logo.jpg" alt="SiREN logo" width="100%" height="auto">
 
 *Network meeting comming up:* [**SiREN Signal 2025**](2025/index.html)
 

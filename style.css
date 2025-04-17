@@ -3,8 +3,8 @@ body {
   padding-right: 1em;
   padding-left: 1em;
   max-width: 45em; 
-  border-left: 14px solid rgb(255, 217, 0);
-  border-right: 14px solid rgb(0, 81, 255);
+  border-left: 10px solid #FFDD02;
+  border-right: 10px solid #005C99;
   color: black;
   font-family: ui-sans-serif, Verdana, Helvetica, ui-sans-serif, sans-serif;
   font-size: 120%;
@@ -71,7 +71,7 @@ dd p {
 
 #footer, #TOC {
   color: rgb(1, 39, 3);
-  background-color: #faf89d;
+  background-color: #FFF3A2;
   font-weight: bold;
 }
 
@@ -89,7 +89,7 @@ dd p {
 
 #header {
   background:
-  linear-gradient(to right, black,#ffee00,black); 
+  linear-gradient(to right, black,#FFF3A2,black); 
 }
 
 .headimg {
