@@ -11,11 +11,8 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    /* The extra [class] is a hack that increases specificity enough to
-       override a similar rule in reveal.js */
-    ul.task-list[class]{list-style: none;}
+    ul.task-list{list-style: none;}
     ul.task-list li input[type="checkbox"] {
-      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
@@ -24,6 +21,9 @@
   </style>
   <link rel="stylesheet" href="../style.css" />
   <link rel="icon" type="image/jpg" href="favicon.jpg" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
 </head>
 <body>
 <header id="title-block-header">
@@ -38,17 +38,27 @@ id="toc-welcome-to-siren-signal-2025">Welcome to Siren Signal
 </nav>
 <p><a href="..">Siren home</a></p>
 <h2 id="welcome-to-siren-signal-2025">Welcome to Siren Signal 2025</h2>
-<p>Invitation email to node representatives from Co-chairs Jennifer
-Horkoff &amp; Eric Knauss:</p>
-<pre><code>Hello SiREN colleagues,
+<p>Siren Signal 2025 to be held in Gothenburg, June 2nd and June
+3rd.</p>
+<p>As usual, you are responsible for your own travel and accommodation
+costs, as well as dinner, but the host will provide a venue, and
+typically some food/snacks during the event. SiREN meetings last lunch
+to lunch to facilitate travel the same days.</p>
+<!--
+Invitation email to node representatives from Co-chairs Jennifer Horkoff & Eric Knauss:
+```
+Hello SiREN colleagues,
  
 Eric and I are stepping in to co-chair SiREN, thank you Richard for taking the role for a number of years!  We also have a revamped website, thank you Björn: https://sirensweden.github.io/#swedish-requirements-engineering-network
 
-We’d like to try to organize a meeting this spring.  It will likely be at Lund or Gothenburg, depending on the numbers that can attend from each place. As usual, you are responsible for your own travel and accommodation costs, as well as dinner, but the host will provide a venue, and typically some food/snacks during the event. 
+We’d like to try to organize a meeting this spring.
+It will likely be at Lund or Gothenburg, depending on the numbers that can attend from each place.
+As usual, you are responsible for your own travel and accommodation costs, as well as dinner, but the host will provide a venue, and typically some food/snacks during the event. 
 
-SiREN meetings last lunch to lunch to facilitate travel the same days.  We’ve prepared a choodle (Chalmers Doodle) to collect availability ranges of two days in May and June. 
+SiREN meetings last lunch to lunch to facilitate travel the same days.
+We’ve prepared a choodle (Chalmers Doodle) to collect availability ranges of two days in May and June. 
 
-For access to the choodle, contact your node representative here: https://sirensweden.github.io/#node-representatives or send an email to Jennifer Horkoff jenho@chalmers.se if your university don&#39;t yet have a Siren node representative.
+For access to the choodle, contact your node representative here: https://sirensweden.github.io/#node-representatives or send an email to Jennifer Horkoff jenho@chalmers.se if your university don't yet have a Siren node representative.
 
 Please feel free to invole any other colleagues (students, faculty, industry) who work with RE and may be interested to attend.
  
@@ -62,6 +72,8 @@ Jennifer Horkoff
 Assoc. Prof. (Docent), IDSE Division, CSE
 University of Gothenburg and Chalmers University of Technology
 jenho@chalmers.se orjennifer.horkoff@gu.se
-https://www.chalmers.se/en/staff/Pages/jenho.aspx</code></pre>
+https://www.chalmers.se/en/staff/Pages/jenho.aspx
+```
+-->
 </body>
 </html>
