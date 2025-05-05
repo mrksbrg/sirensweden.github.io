@@ -34,7 +34,7 @@ Contact bjorn.regnell@cs.lth.se if you are interested in becoming a Node Represe
 * Lund: [Senior Lecturer Marcus Borg](https://cs.lth.se/markus-borg/)
 * Malmö: TBD
 * Mälardalen: [Senior Lecturer Luciana Provenzano](https://www.es.mdu.se/staff/2958-Luciana_Provenzano)
-* Stockholm: [Senior Lecturer Eric Svee](https://www.su.se/profiles/ersv6598-1.188778)
+* Stockholm: [Biträndade Lecturer Georgios Koutsopoulos](https://www.su.se/profiles/geko9413-1.376428)
 
 ### Industry Ambassadors
 
