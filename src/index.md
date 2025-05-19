@@ -3,7 +3,7 @@
 
 <img src="img/siren-logo.jpg" alt="SiREN logo" width="100%" height="auto">
 
-*Network meeting comming up:* [**SiREN Signal 2025**](2025/index.html)
+*Network meeting comming up:* [**SiREN Signal 2025**](2025)
 
 ## About
 
