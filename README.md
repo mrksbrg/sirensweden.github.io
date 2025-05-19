@@ -2,7 +2,7 @@
 
 [Web pages](https://sirensweden.github.io/) of SiREN - the Swedish Requirements Engineering Network for academic Software Engineering scholars in Sweden with a deep interest in requirements Requirements Engineering (RE) research and practice.
 
-## How to build
+## How to contribute
 
 Contributions are welcome! Open an issue and discuss your ideas then clone and make a PR.
 
