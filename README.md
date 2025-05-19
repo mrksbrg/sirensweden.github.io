@@ -12,4 +12,4 @@ For running the build script, you need Bash support. If you're using a Mac or Li
 the built-in terminal. If you're on Windows, you can use [Git Bash](https://gitforwindows.org/) or [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) (Windows Subsystem
 for Linux) to run the build script. 
 
-For live preview of your changes in vscode you can use [Live Serve](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) runs a minimal web server and opens your default browser to view the HTML files. It also supports hot reloading.
+For live preview of your changes in vscode you can use [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) runs a minimal web server and opens your default browser to view the HTML files. It also supports hot reloading.
