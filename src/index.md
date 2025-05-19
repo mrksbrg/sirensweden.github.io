@@ -32,8 +32,8 @@ Contact bjorn.regnell@cs.lth.se if you are interested in becoming a Node Represe
 * Karlskrona: [Professor Daniel Mendez Fernandez](https://www.bth.se/staff/daniel-mendez-fernandez-dmz/)
 * Linköping: [Docent Lena Buffoni](https://liu.se/medarbetare/olero90)
 * Lund: [Senior Lecturer Marcus Borg](https://cs.lth.se/markus-borg/)
-* Malmö: TBD
-* Mälardalen: [Senior Lecturer Luciana Provenzano](https://www.es.mdu.se/staff/2958-Luciana_Provenzano)
+* Malmö: [Docent Romina Spalazzese](https://mau.se/personer/romina.spalazzese/)
+* Västerås: [Senior Lecturer Luciana Provenzano](https://www.es.mdu.se/staff/2958-Luciana_Provenzano)
 * Stockholm: [Biträndade Lecturer Georgios Koutsopoulos](https://www.su.se/profiles/geko9413-1.376428)
 
 ### Industry Ambassadors
