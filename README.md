@@ -4,7 +4,9 @@
 
 ## How to build
 
-If you add or modify .md files under src/, you must regenerate the corresponding HTML files using a recent version of [Pandoc](https://pandoc.org/installing.html).
+Contributions are welcome! Open an issue and discuss your ideas then clone and make a PR.
+
+Edit .md files under src/ and regenerate the corresponding HTML files using a recent version of [Pandoc](https://pandoc.org/installing.html).
 
 Navigate to project root and run the bash script `build.sh` 
 
