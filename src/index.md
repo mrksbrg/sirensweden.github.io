@@ -31,7 +31,7 @@ Contact bjorn.regnell@cs.lth.se if you are interested in becoming a Node Represe
 * Göteborg: [Professor Eric Knauss](https://www.chalmers.se/en/persons/knauss/)
 * Karlskrona: [Professor Daniel Mendez Fernandez](https://www.bth.se/staff/daniel-mendez-fernandez-dmz/)
 * Linköping: [Docent Lena Buffoni](https://liu.se/medarbetare/olero90)
-* Lund: [Senior Lecturer Marcus Borg](https://cs.lth.se/markus-borg/)
+* Lund: [Senior Lecturer Markus Borg](https://cs.lth.se/markus-borg/)
 * Malmö: [Docent Romina Spalazzese](https://mau.se/personer/romina.spalazzese/)
 * Västerås: [Senior Lecturer Luciana Provenzano](https://www.es.mdu.se/staff/2958-Luciana_Provenzano)
 * Stockholm: [Biträndade Lecturer Georgios Koutsopoulos](https://www.su.se/profiles/geko9413-1.376428)
