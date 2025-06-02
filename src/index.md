@@ -57,7 +57,7 @@ We have since 2003 held annual network meetings aka Signals, were we exchange id
 
 ### Coming Signal
 
-* *Coming Up:* [**SiREN Signal 2025**](2025/index.html). Venue to be decided.
+* *Coming Up:* [**SiREN Signal 2025, Göteborg, Jun 2-3**](2025/index.html).
 
 ### Past Signals
 
