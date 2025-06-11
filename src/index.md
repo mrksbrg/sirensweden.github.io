@@ -20,7 +20,7 @@ Contact bjorn.regnell@cs.lth.se if you are interested in becoming a Node Represe
 
 ### Chairs and Founders
 
-* Signals Program Co-chairs: [Docent Jennifer Horkoff](https://www.chalmers.se/en/persons/jenho/), [Professor Eric Knauss](https://www.chalmers.se/en/persons/knauss/), [Dr. Julian Frattini](https://julianfrattini.github.io/) 
+* Signal 2025 Program Co-chairs: [Docent Jennifer Horkoff](https://www.chalmers.se/en/persons/jenho/), [Professor Eric Knauss](https://www.chalmers.se/en/persons/knauss/), [Dr. Julian Frattini](https://julianfrattini.github.io/) 
 * Steering Committee Chair, Co-founder: [Professor Björn Regnell](https://cs.lth.se/bjorn-regnell/)
 * Co-founder: [Professor Kristian Sandahl](https://liu.se/en/employee/krisa34)
 * Co-founder: [Professor Jürgen Börstler](https://www.bth.se/eng/staff/jurgen-borstler-jub/)
