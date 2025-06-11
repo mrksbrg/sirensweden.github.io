@@ -3,7 +3,7 @@
 
 <img src="img/siren-logo.jpg" alt="SiREN logo" width="100%" height="auto">
 
-*Network meeting comming up:* [**SiREN Signal 2025**](2025)
+*Network meeting comming up:* [**SiREN Signal 2026**](2026)
 
 ## About
 
@@ -57,10 +57,11 @@ We have since 2003 held annual network meetings aka Signals, were we exchange id
 
 ### Coming Signal
 
-* *Coming Up:* [**SiREN Signal 2025, Göteborg, Jun 2-3**](2025/index.html).
+* *Coming Up:* [**SiREN Signal 2026, Venue TBD, Date TBD**](2026/index.html).
 
 ### Past Signals
 
+* [2025, Göteborg](2025/index.html) June 2-3
 * [2024, Linköping](2024/index.html) May 13 -14
 * 2023, Göteborg 2-3 Nov, **20 YEARS ANNIVERSARY**
 * (2020 planned for Göteborg, *cancelled by Corona*)
