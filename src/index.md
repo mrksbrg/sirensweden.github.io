@@ -73,7 +73,7 @@ We have since 2003 held annual network meetings aka Signals, were we exchange id
 * 2017, Karlskrona, May 11-12
 * 2016, Stockholm, May 26-27
 * 2015, Västerås, May 25-26
-* 2014, Karlskrona, Aug 25-29, Joint support from all nodes of [RE'14](https://www.computer.org/csdl/proceedings/re/2014/12OmNCbU3aT) 
+* 2014, Karlskrona, Aug 25-29, Co-located with [RE'14](https://www.computer.org/csdl/proceedings/re/2014/12OmNCbU3aT)  supported by all SiREN nodes 
 * 2013, Malmö, May 30-31, **10 YEARS ANNIVERSARY**
 * 2012, Göteborg, May 3-4
 * 2011, Jönköping, May 12-13
