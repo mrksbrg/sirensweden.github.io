@@ -93,7 +93,7 @@ We have since 2003 held annual network meetings aka Signals, were we exchange id
 If you are doing software engineering research with a requirements engineering angle you are recommended to publish at these core forums:
 
 * [**REJ**](https://link.springer.com/journal/766): Requirements Engineering, *journal*: (Springer-Nature), a high-impact journal with good reputation.
-* [**RE**](https://conf.researchr.org/series/RE): Requirements Engineering, *international conference*: (IEEE/ACM), a top-tier conference with a low acceptance rate.
+* [**RE**](https://conf.researchr.org/series/RE): Requirements Engineering, *international conference*: (IEEE/ACM), a top-tier conference with focus on excellence.
 * [**REFSQ**](https://refsq.org): Requirements Engineering Foundation for Software Engineering, *international working conference* (Springer LNCS), invites on-going work and novel research, you hear it first at REFSQ!
 
 ## Contribute
