@@ -18,18 +18,10 @@
 Contact bjorn.regnell@cs.lth.se if you are interested in becoming a Node Representative or Industry Ambassador of SiREN. If you are a PhD student in Software Engineering with an interest in Requirements Engineering and wants to participate at SiREN Signal meetings then contact a Node Representative near you.
 
 
-### Chairs and Founders
-
-* Signal 2025 Program Co-chairs: [Docent Jennifer Horkoff](https://www.chalmers.se/en/persons/jenho/), [Professor Eric Knauss](https://www.chalmers.se/en/persons/knauss/), [Dr. Julian Frattini](https://julianfrattini.github.io/) 
-* Steering Committee Chair, Co-founder: [Professor Björn Regnell](https://cs.lth.se/bjorn-regnell/)
-* Co-founder: [Professor Kristian Sandahl](https://liu.se/en/employee/krisa34)
-* Co-founder: [Professor Jürgen Börstler](https://www.bth.se/eng/staff/jurgen-borstler-jub/)
-* Co-founder: [Professor Emerita Anne Persson](https://www.linkedin.com/in/anne-persson-9959073/)
-
 ### Node Representatives
 
 * Göteborg: [Professor Eric Knauss](https://www.chalmers.se/en/persons/knauss/)
-* Karlskrona: [Professor Daniel Mendez Fernandez](https://www.bth.se/staff/daniel-mendez-fernandez-dmz/)
+* Karlskrona: [Professor Krzysztof Wnuk](https://www.bth.se/eng/staff/krzysztof-wnuk-krw/)
 * Linköping: [Docent Lena Buffoni](https://liu.se/medarbetare/olero90)
 * Lund: [Senior Lecturer Markus Borg](https://cs.lth.se/markus-borg/)
 * Malmö: [Docent Romina Spalazzese](https://mau.se/personer/romina.spalazzese/)
@@ -40,6 +32,17 @@ Contact bjorn.regnell@cs.lth.se if you are interested in becoming a Node Represe
 
 * [Anders Ekman](https://www.linkedin.com/in/anders-ekman-271563/), Stockholm, CEO at Celeris Consulting 
 * [Peter Sjöberg](https://www.linkedin.com/in/petersjoebergvaesteras/), Västerås, Senior Systems Engineer at Hitachi Energy
+
+
+### Chairs and Founders
+
+* Signal 2025 Program Co-chairs: [Docent Jennifer Horkoff](https://www.chalmers.se/en/persons/jenho/), [Professor Eric Knauss](https://www.chalmers.se/en/persons/knauss/), [Dr. Julian Frattini](https://julianfrattini.github.io/)
+* Signals 2014-2024 Program Chair: [Senior Lecturer Richard Berntsson-Svensson](https://www.gu.se/en/about/find-staff/richardberntssonsvensson) 
+* Steering Committee Chair 2004-present, Co-founder, Signals 2004-2013 Program Chair: [Professor Björn Regnell](https://cs.lth.se/bjorn-regnell/)
+* Co-founder: [Professor Kristian Sandahl](https://liu.se/en/employee/krisa34)
+* Co-founder: [Professor Jürgen Börstler](https://www.bth.se/eng/staff/jurgen-borstler-jub/)
+* Co-founder: [Professor Emerita Anne Persson](https://www.linkedin.com/in/anne-persson-9959073/)
+
 
 ### Governance
 
@@ -70,6 +73,7 @@ We have since 2003 held annual network meetings aka Signals, were we exchange id
 * 2017, Karlskrona, May 11-12
 * 2016, Stockholm, May 26-27
 * 2015, Västerås, May 25-26
+* 2014, Joint efforts from all nodes in support of [RE'14 in Karlskrona](https://www.computer.org/csdl/proceedings/re/2014/12OmNCbU3aT)
 * 2013, Malmö, May 30-31, **10 YEARS ANNIVERSARY**
 * 2012, Göteborg, May 3-4
 * 2011, Jönköping, May 12-13
