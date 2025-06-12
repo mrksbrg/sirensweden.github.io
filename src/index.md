@@ -67,7 +67,7 @@ We have since 2003 held annual network meetings aka Signals, were we exchange id
 * [2025, Göteborg](2025/index.html) June 2-3
 * [2024, Linköping](2024/index.html) May 13 -14
 * 2023, Göteborg 2-3 Nov, **20 YEARS ANNIVERSARY**
-* (2020-2022 *cancelled by Corona*)
+* (2020-2022 *cancelled by Corona Pandemic*)
 * 2019, Lund, May 7-8
 * 2018, Linköping, May 7-8, **15 YEARS ANNIVERSARY**
 * 2017, Karlskrona, May 11-12
