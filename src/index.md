@@ -3,7 +3,7 @@
 
 <img src="img/siren-logo.jpg" alt="SiREN logo" width="100%" height="auto">
 
-*Network meeting comming up:* [**SiREN Signal 2026**](2026)
+*Network meeting coming up:* [**SiREN Signal 2026**](2026)
 
 ## About
 
@@ -23,7 +23,7 @@ Contact bjorn.regnell@cs.lth.se if you are interested in becoming a Node Represe
 * Göteborg: [Professor Eric Knauss](https://www.chalmers.se/en/persons/knauss/)
 * Karlskrona: [Professor Krzysztof Wnuk](https://www.bth.se/eng/staff/krzysztof-wnuk-krw/)
 * Linköping: [Docent Lena Buffoni](https://liu.se/medarbetare/olero90)
-* Lund: [Senior Lecturer Markus Borg](https://cs.lth.se/markus-borg/)
+* Lund: [Docent Markus Borg](https://cs.lth.se/markus-borg/)
 * Malmö: [Docent Romina Spalazzese](https://mau.se/personer/romina.spalazzese/)
 * Västerås: [Senior Lecturer Luciana Provenzano](https://www.es.mdu.se/staff/2958-Luciana_Provenzano)
 * Stockholm: [Associate Senior Lecturer Georgios Koutsopoulos](https://www.su.se/profiles/geko9413-1.376428)
@@ -57,7 +57,7 @@ Contact bjorn.regnell@cs.lth.se if you are interested in becoming a Node Represe
 
 ## Signals
 
-We have since 2003 held annual network meetings aka Signals, were we exchange ideas and discuss any interesting topics related to requirements of software-based systems, including research, teaching and practice of RE. Signals are typically lunch to lunch at a university somewhere in Sweden. Everyone travel on their own budget and we aim at a minimal admin overhead. 
+We have since 2003 held annual network meetings aka Signals, where we exchange ideas and discuss any interesting topics related to requirements of software-based systems, including research, teaching and practice of RE. Signals are typically lunch to lunch at a university somewhere in Sweden. Everyone travel on their own budget and we aim at a minimal admin overhead. 
 
 ### Coming Signal
 
